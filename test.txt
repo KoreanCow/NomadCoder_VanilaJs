@@ -1,1 +1,5 @@
 얍얍 뚜루루루
+
+idOrClass.classList.toggle("Name") + click event
+if it has a "Name" -> Remove Name -> class = 'test' 
+if it does not have a "Name" -> add Name -> class = 'test Name' 
